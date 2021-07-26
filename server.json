@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "photo": "https://t.ctcdn.com.br/ooiGd1Nc3zudm9eRXTmlK3BRhLw=/fit-in/400x400/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i411202.png",
+      "name": "Apple Watch",
+      "description": "O Apple Watch Series 4 é, na verdade, a quinta geração de smartwatches da empresa, trazendo o watchOS 5.0, melhorias na qualidade de tela e resistência a água. Nesta versão, vem com tela AMOLED com 44 mm.",
+      "price": "1890"
+    },
+
+    {
+      "id": "2",
+      "photo": "https://t.ctcdn.com.br/ooiGd1Nc3zudm9eRXTmlK3BRhLw=/fit-in/400x400/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i411202.png",
+      "name": "Apple Watch",
+      "description": "O Apple Watch Series 4 é, na verdade, a quinta geração de smartwatches da empresa, trazendo o watchOS 5.0, melhorias na qualidade de tela e resistência a água. Nesta versão, vem com tela AMOLED com 44 mm.",
+      "price": "1890"
+    },
+
+    {
+      "id": "3",
+      "photo": "https://t.ctcdn.com.br/ooiGd1Nc3zudm9eRXTmlK3BRhLw=/fit-in/400x400/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i411202.png",
+      "name": "Apple Watch",
+      "description": "O Apple Watch Series 4 é, na verdade, a quinta geração de smartwatches da empresa, trazendo o watchOS 5.0, melhorias na qualidade de tela e resistência a água. Nesta versão, vem com tela AMOLED com 44 mm.",
+      "price": "1890"
+    },
+
+    {
+      "id": "4",
+      "photo": "https://t.ctcdn.com.br/ooiGd1Nc3zudm9eRXTmlK3BRhLw=/fit-in/400x400/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i411202.png",
+      "name": "Apple Watch",
+      "description": "O Apple Watch Series 4 é, na verdade, a quinta geração de smartwatches da empresa, trazendo o watchOS 5.0, melhorias na qualidade de tela e resistência a água. Nesta versão, vem com tela AMOLED com 44 mm.",
+      "price": "1890"
+    },
+
+    {
+      "id": "5",
+      "photo": "https://t.ctcdn.com.br/ooiGd1Nc3zudm9eRXTmlK3BRhLw=/fit-in/400x400/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i411202.png",
+      "name": "Apple Watch",
+      "description": "O Apple Watch Series 4 é, na verdade, a quinta geração de smartwatches da empresa, trazendo o watchOS 5.0, melhorias na qualidade de tela e resistência a água. Nesta versão, vem com tela AMOLED com 44 mm.",
+      "price": "1890"
+    },
+
+    {
+      "id": "6",
+      "photo": "https://t.ctcdn.com.br/ooiGd1Nc3zudm9eRXTmlK3BRhLw=/fit-in/400x400/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i411202.png",
+      "name": "Apple Watch",
+      "description": "O Apple Watch Series 4 é, na verdade, a quinta geração de smartwatches da empresa, trazendo o watchOS 5.0, melhorias na qualidade de tela e resistência a água. Nesta versão, vem com tela AMOLED com 44 mm.",
+      "price": "1890"
+    }
+  ]
+}
